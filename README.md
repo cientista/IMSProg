@@ -2,7 +2,7 @@
 
 <img align="right" src="img/mini_logo_IMSProg.svg">
 
-* [System software requirements](#system-software-requirements)
+* [System software requirements lool](#system-software-requirements)
 * [How to use](#how-to-use)
 * [List of supported chips](#list-of-supported-chips)
 * [Packages](#packages)
